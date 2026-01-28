@@ -1,0 +1,6 @@
+
+{
+  "name": "Directorio de Empleados",
+  "description": "Una aplicación simple para ver, buscar y filtrar una lista de empleados. Demuestra el manejo de estados de carga y error al obtener datos.",
+  "requestFramePermissions": []
+}
